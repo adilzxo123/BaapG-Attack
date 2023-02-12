@@ -17,7 +17,6 @@
 #  along with this program; if not, write to the Free Software
 #  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
 #  MA 02110-1301, USA.
-# if You Have Any Problem Contact Me On Insta @krish_na_2568
 
 ################################## HEADER SCRIPT 1.0 ###################################
 import os 
@@ -205,7 +204,7 @@ lic = """
 #  along with this program; if not, write to the Free Software
 #  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
 #  MA 02110-1301, USA.
-# if You Have Any Problem Contact Me On Insta @krish_na_2568
+# if You Have Any Problem Contact Me On Insta 
 # Api by Tbomb
 """
 text = ''
@@ -438,7 +437,7 @@ def res():
 		main()
 	else:
 		print()
-		aPrint(f"Follow on Ig : {W}@krish_na_2568",time_test=0.15)
+		aPrint(f"Follow on Ig : {W}@____",time_test=0.15)
 		exit()
 
 
